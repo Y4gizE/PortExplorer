@@ -12,18 +12,12 @@ Python must be installed to run this tool.
 3. The program will initiate the scan and display each open port it finds.
 
 ## Examples
-Enter a host to scan: 192.168.111.10
-Port 21: Open - Service: ftp
-Port 22: Open - Service: ssh
-Port 23: Open - Service: telnet
-Port 25: Open - Service: smtp
-Port 53: Open - Service: domain
-Port 80: Open - Service: http
-Port 111: Open - Service: sunrpc
-Port 139: Open - Service: netbios-ssn
-Port 445: Open - Service: microsoft-ds
-Port 512: Open - Service: exec
-Port 513: Open - Service: login
+1.Enter a host to scan: 192.168.111.10
+2.Port 21: Open - Service: ftp
+3.Port 22: Open - Service: ssh
+4.Port 23: Open - Service: telnet
+5.Port 25: Open - Service: smtp
+
 
 
 ## Contributing
